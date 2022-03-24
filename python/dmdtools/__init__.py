@@ -1,4 +1,4 @@
-from batch import *
+from .batch import *
 #from regularized import *
-from streaming import *
+from .streaming import *
 
